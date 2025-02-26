@@ -10,7 +10,7 @@ A simple REST API for a car rental service built with Express and MongoDB.
 ## Installation
 
 1. Clone the repository:
-   git clone <repository-url>
+   git clone https://github.com/AMurtezaj/CarRentalAPI.git
    cd car-rental-api
 
 2. Install dependencies:
